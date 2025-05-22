@@ -1,6 +1,4 @@
 ﻿# PAMOB
-# PAMOB
-# PAMOB
 # MeuAppDeNavegacao
 
 
